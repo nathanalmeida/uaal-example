@@ -39,16 +39,16 @@ ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidB
 		ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:5:69-110
 	android:name
 		ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:5:15-68
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.INFO
 ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:6:7-9:23
 action#android.intent.action.MAIN
 ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:7:9-61
 	android:name
 		ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:7:17-58
-category#android.intent.category.LAUNCHER
-ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:8:9-69
+category#android.intent.category.INFO
+ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:8:9-65
 	android:name
-		ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:8:19-66
+		ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:8:19-62
 meta-data#unityplayer.UnityActivity
 ADDED from /Users/nathan.a/Documents/Projects/uaal-example/UnityProject/androidBuild/unityLibrary/src/main/AndroidManifest.xml:10:7-82
 	android:value
