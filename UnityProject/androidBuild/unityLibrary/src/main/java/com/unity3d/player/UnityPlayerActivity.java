@@ -42,8 +42,7 @@ public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecyc
         mUnityPlayerLayout = new UnityPlayerLayout(this);
         setContentView(mUnityPlayerLayout);
 
-        FrameLayout layout = mUnityPlayerLayout.findViewById(R.id.unityLayout);
-        layout.addView(mUnityPlayer);
+        mUnityPlayerLayout.addView(mUnityPlayer);
 
         mUnityPlayer.requestFocus();
     }
